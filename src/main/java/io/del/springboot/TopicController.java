@@ -15,7 +15,8 @@ public class TopicController {
 		return  Arrays.asList(
 				new Topic("1","A"),
 				new Topic("2","B"),
-				new Topic("3","C")
+				new Topic("3","C"),
+				new Topic("4", "D")
 				);
 	}
 }
